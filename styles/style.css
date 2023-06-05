@@ -1096,7 +1096,7 @@ grid-template-rows: repeat(10,1fr);
     /* padding-block: .4rem; */
    border-radius: 50px;
    padding: .6rem;
-   border: .5px solid #8E8E8E;
+   /* border: .5px solid #8E8E8E; */
 
 }
 .menu-link{
@@ -1122,5 +1122,5 @@ grid-template-rows: repeat(10,1fr);
 .elo{
     width: 100%;
     height: 100vh;
-    background-color: #010101;
+    background-color: #F0E1D8;
 }
